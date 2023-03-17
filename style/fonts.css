@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Inter;
+  font-weight: 500;
+  font-display: swap;
+  src:  local(Inter-Medium), local(InterMedium), local('Inter Medium'),
+    url('../fonts/inter-v12-cyrillic_latin-500.woff2') format('woff2'),
+    url('../fonts/inter-v12-cyrillic_latin-500.woff') format('woff');
+}
+
+@font-face {
+  font-family: Inter;
+  font-weight: 400;
+  font-display: swap;
+  src:  local(Inter), local(InterRegular), local('Inter Regular'),
+    url('../fonts/inter-v12-cyrillic_latin-regular.woff2') format('woff2'),
+    url('../fonts/inter-v12-cyrillic_latin-regular.woff') format('woff');
+}
